@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "skill_id": "bd6c5768-9256-4b5d-a824-3d781b90d5b6",
+  "path": "parallel-feature-development",
+  "path_key": "parallel-feature-development",
+  "enabled": true,
+  "tags": [],
+  "source": {
+    "type": "skillssh",
+    "ref": "wshobson/agents/parallel-feature-development",
+    "subpath": "plugins\\agent-teams\\skills\\parallel-feature-development",
+    "branch": null
+  }
+}
